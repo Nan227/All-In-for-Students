@@ -1,7 +1,7 @@
 
 
 /* ... Your existing styles ... */
-@import url('http://fonts.googlepis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/*@import url('http://fonts.googlepis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -23,6 +23,7 @@ h4{
   line-height: 546px;
   color: #222;
 }
+*/
 body {
   font-family: Arial, sans-serif;
   margin: 0;
